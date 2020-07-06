@@ -7,22 +7,22 @@
 
 <!-- icons with padding -->
 
-[1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
-[2.1]: http://i.imgur.com/P3YfQoD.png (facebook icon with padding)
-[3.1]: http://i.imgur.com/yCsTjba.png (google plus icon with padding)
-[4.1]: http://i.imgur.com/YckIOms.png (tumblr icon with padding)
-[5.1]: http://i.imgur.com/1AGmwO3.png (dribbble icon with padding)
-[6.1]: http://i.imgur.com/0o48UoR.png (github icon with padding)
+[1.1]: https://github.com/ombharatiya/ombharatiya/blob/master/assets/icons/icons8-linkedin-48.png (linkedin icon with padding)
+[2.1]: https://github.com/ombharatiya/ombharatiya/blob/master/assets/icons/icons8-github-48.png (github icon with padding)
+[3.1]: https://github.com/ombharatiya/ombharatiya/blob/master/assets/icons/icons8-twitter-48.png (twitter icon with padding)
+[4.1]: https://github.com/ombharatiya/ombharatiya/blob/master/assets/icons/icons8-medium-new-48.png (medium icon with padding)
+[5.1]: https://github.com/ombharatiya/ombharatiya/blob/master/assets/icons/icons8-stack-overflow-48.png (stackoverflow icon with padding)
+[6.1]: https://github.com/ombharatiya/ombharatiya/blob/master/assets/icons/icons8-dev-48.png (dev icon with padding)
 
 <!-- links to your social media accounts -->
 <!-- update these accordingly -->
 
-[1]: http://www.twitter.com/ombharatiya
-[2]: http://www.facebook.com/ombharatiya
-[3]: https://plus.google.com/+ombharatiya
-[4]: http://ombharatiya.tumblr.com
-[5]: http://dribbble.com/ombharatiya
-[6]: http://www.github.com/ombharatiya
+[1]: https://www.linkedin.com/in/ombharatiya
+[2]: https://www.github.com/ombharatiya
+[3]: https://www.twitter.com/ombharatiya
+[4]: http://www.medium.com/@ombharatiya
+[5]: https://stackoverflow.com/users/8454203/om-bharatiya
+[6]: http://dev.to/ombharatiya
 
 <!-- Don't remove this --- https://github.com/ombharatiya -->
 
