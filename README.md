@@ -47,11 +47,15 @@ Hi, I'm Om — a **software engineer** at **HashedIn** building some real stuff 
 
 <!-- section - social media icons -->
 
+ ---
+
 <!-- section - skills -->
 
 ## I work on .. 💻
 
-Django . React.js . Postgresql . MongoDB . Docker . Redis . AWS Services . Microservices
+Django . React.js . Microservices . Docker . AWS Services
+
+Postgresql . MongoDB . Redis . DynamoDB
 
 Python . JavaScript . C++ . Java
 
@@ -61,9 +65,9 @@ Python . JavaScript . C++ . Java
 
 ## On the job .. 💯
 
-> Software Engineer - [**HashedIn**](https://hashedin.com)
+> Software Engineer - [**HashedIn**](https://hashedin.com)  ⭐
 
-> Student Patner & AI Rockstar - [**Microsoft**](https://studentambassadors.microsoft.com/en-us)
+> Microsoft Student Partner & AI Rockstar - [**Microsoft**](https://studentambassadors.microsoft.com/en-us)
 
 > Research & Development Engineer Intern - [**ISRO**](https://www.isro.gov.in)
 
@@ -81,7 +85,7 @@ Python . JavaScript . C++ . Java
 
 📰 Reading & writing _TECH BLOGS_
 
-🍕 _HACKATHONS_
+🍕 _HACKATHONS_ & problem solving
 
 <!-- section - interests -->
 
@@ -90,6 +94,8 @@ Python . JavaScript . C++ . Java
 ## Check my blogs & posts .. ✨
 
 - [When to choose NoSQL over SQL?](https://dev.to/ombharatiya/when-to-choose-nosql-over-sql-536p)
+
+- [Dockerize Django PostgreSQL — Simple Set-Up using Docker Compose](https://medium.com/@ombharatiya/dockerize-django-postgresql-simple-docker-compose-set-up-ombharatiya-13026aa142c3)
 
 - [Failure Story behind the Demo-2 launch mission of SpaceX cc Elon Musk](https://www.linkedin.com/posts/activity-6672761818504679424-y1Cf)
 
@@ -115,7 +121,7 @@ Python . JavaScript . C++ . Java
 
 4. You made it!
 
-Don't forget to add a Star ⭐ on this repo if you liked my work & follow me for interesting stuff.
+Don't forget to add a Star ⭐ on this repo if you liked it & follow me for interesting stuff.
 
 
 
@@ -134,3 +140,6 @@ Thanks for reading about me. You can connect with me on ..
 
 <!-- section - social media icons -->
 
+<p align='center'>
+<img align='center' src="https://visitor-badge.glitch.me/badge?page_id=ombharatiya.visitor-badge">
+ <p/>
