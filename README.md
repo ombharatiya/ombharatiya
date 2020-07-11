@@ -93,6 +93,8 @@ Python . JavaScript . C++ . Java
 
 ## Check my blogs & posts .. ✨
 
+- [Building GitHub Profile using README.md](https://medium.com/@ombharatiya/building-github-profile-using-readme-md-ombharatiya-8d7663e8456b)
+
 - [When to choose NoSQL over SQL?](https://dev.to/ombharatiya/when-to-choose-nosql-over-sql-536p)
 
 - [Dockerize Django PostgreSQL — Simple Set-Up using Docker Compose](https://medium.com/@ombharatiya/dockerize-django-postgresql-simple-docker-compose-set-up-ombharatiya-13026aa142c3)
@@ -121,7 +123,10 @@ Python . JavaScript . C++ . Java
 
 4. You made it!
 
-Don't forget to add a Star ⭐ on this repo if you liked it & follow me for interesting stuff.
+Don't forget to add a Star ⭐ on this repo if you liked it & follow me for interesting stuff. 
+
+More details are on this blog link: [Building GitHub Profile using README.md](https://medium.com/@ombharatiya/building-github-profile-using-readme-md-ombharatiya-8d7663e8456b)
+
 
 
 
