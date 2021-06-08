@@ -32,7 +32,7 @@
 # ❤ to Build - Software Engineer & Enthusiast!
 
 
-Hi, I'm Om — a **software engineer** at **HashedIn** building some real stuff through code & beer. My working principle is learning by doing. Always up for a discussion on  softwares, business, entrepreneurship, philosophy & socialpreneurship. ✌💖
+Hi, I'm Om — a **software engineer** building some real stuff through code & beer. My working principle is learning by doing. Always up for a discussion on  softwares, business, entrepreneurship, philosophy & socialpreneurship. ✌💖
 
 <!-- section - intro -->
 
@@ -53,11 +53,11 @@ Hi, I'm Om — a **software engineer** at **HashedIn** building some real stuff 
 
 ## I work on .. 💻
 
-Django . React.js . Microservices . Docker . AWS Services
+Java Spring Boot . Django . React.js . Microservices . Docker . AWS Services
 
-Postgresql . MongoDB . Redis . DynamoDB
+DynamoDB . Postgresql . MongoDB . Redis . Prometheus
 
-Python . JavaScript . C++ . Java
+Java . Python . GoLang . JavaScript . C++
 
 <!-- section - skills -->
 
@@ -65,11 +65,13 @@ Python . JavaScript . C++ . Java
 
 ## On the job .. 💯
 
+> Software Development Engineer - [**Swiggy**](https://bytes.swiggy.com/)  ⭐
+
 > Software Engineer - [**HashedIn**](https://hashedin.com)  ⭐
 
 > Microsoft Student Partner & AI Rockstar - [**Microsoft**](https://studentambassadors.microsoft.com/en-us)
 
-> Research & Development Engineer Intern - [**ISRO**](https://www.isro.gov.in)
+> Software Development & Research Engineer Intern - [**ISRO**](https://www.isro.gov.in)
 
 
 <!-- section - job details -->
