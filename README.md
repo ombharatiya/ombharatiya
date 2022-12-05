@@ -65,6 +65,10 @@ Java . Python . GoLang . JavaScript . C++
 
 ## On the job .. 💯
 
+> Software Engineering - [**Mensa Brands**](https://mensabrands.com)  ⭐
+
+#### Previously .. 💯
+
 > Software Development Engineer - [**Swiggy**](https://bytes.swiggy.com/)  ⭐
 
 > Software Engineer - [**HashedIn**](https://hashedin.com)  ⭐
