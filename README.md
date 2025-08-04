@@ -1,156 +1,105 @@
-<!-- Don't remove this --- https://github.com/ombharatiya -->
-
-<!-- links to social media icons -->
-<!-- no need to change these -->
-
-<!-- icons  -->
-
-[1.1]: https://github.com/ombharatiya/ombharatiya/blob/master/assets/icons/icons8-linkedin-48.png (linkedin icon with padding)
-[2.1]: https://github.com/ombharatiya/ombharatiya/blob/master/assets/icons/icons8-github-48.png (github icon with padding)
-[3.1]: https://github.com/ombharatiya/ombharatiya/blob/master/assets/icons/icons8-twitter-48.png (twitter icon with padding)
-[4.1]: https://github.com/ombharatiya/ombharatiya/blob/master/assets/icons/icons8-medium-new-48.png (medium icon with padding)
-[5.1]: https://github.com/ombharatiya/ombharatiya/blob/master/assets/icons/icons8-stack-overflow-48.png (stackoverflow icon with padding)
-[6.1]: https://github.com/ombharatiya/ombharatiya/blob/master/assets/icons/icons8-dev-48.png (dev icon with padding)
-
-<!-- links to my social media accounts -->
+<!-- Social Media Icons -->
+[1.1]: https://github.com/ombharatiya/ombharatiya/blob/master/assets/icons/icons8-linkedin-48.png
+[2.1]: https://github.com/ombharatiya/ombharatiya/blob/master/assets/icons/icons8-github-48.png
+[3.1]: https://github.com/ombharatiya/ombharatiya/blob/master/assets/icons/icons8-twitter-48.png
 
 [1]: https://www.linkedin.com/in/ombharatiya
 [2]: https://www.github.com/ombharatiya
 [3]: https://www.twitter.com/ombharatiya
-[4]: http://www.medium.com/@ombharatiya
-[5]: https://stackoverflow.com/users/8454203/om-bharatiya
-[6]: http://dev.to/ombharatiya
 
-<!-- Don't remove this --- https://github.com/ombharatiya -->
+<div align="center">
 
+# Hey, I'm Om! 👋
 
+### I build things that scale, break, and (hopefully) scale again
 
+[![LinkedIn][1.1]][1] [![GitHub][2.1]][2] [![Twitter][3.1]][3]
 
-<!-- section - intro -->
-<!--#### **SDE** @ **HashedIn | Microsoft | ISRO** -->
+**Currently crafting distributed systems • Obsessed with performance • Secretly love debugging production fires 🔥**
 
-# ❤ to Build - Software Engineer & Enthusiast!
+📍 Abu Dhabi, UAE • 📧 coffeewithom@gmail.com
 
+</div>
 
-Hi, I'm Om — a **software engineer** building some real stuff through code & beer. My working principle is learning by doing. Always up for a discussion on  softwares, business, entrepreneurship, philosophy & socialpreneurship. ✌💖
+---
 
-<!-- section - intro -->
+## 🛠 What I'm building
 
-<!-- section - social media icons -->
+**Right now:** Tinkering with GenAI agents that actually understand compliance rules (spoiler: it's harder than it looks)
 
-[![linkedin ombharatiya][1.1]][1]
-[![github ombharatiya][2.1]][2]
-[![twitter ombharatiya][3.1]][3]
-[![medium ombharatiya][4.1]][4]
-[![stackoverflow om-bharatiya][5.1]][5]
-[![dev to ombharatiya][6.1]][6]
+**Always:** Systems that don't fall over when traffic spikes happen at 3 AM
 
-<!-- section - social media icons -->
+**For fun:** Open source tools that make other developers' lives slightly less miserable
 
- ---
+## 🧠 Things I think about
 
-<!-- section - skills -->
+```bash
+$ grep -r "why is this so slow" ~/brain/
+→ Database indexes (or lack thereof)
+→ N+1 queries hiding in plain sight  
+→ That microservice that somehow became a monolith
+→ Why Kubernetes makes simple things complicated
+→ Whether this cache invalidation will actually work
+```
 
-## I work on .. 💻
+## ⚡ My Stack (aka tools that don't make me cry)
 
-Java Spring Boot . Django . React.js . Microservices . Docker . AWS Services
+```yaml
+Languages: Java, Python, Go, JavaScript
+          # C++ when I'm feeling masochistic
 
-DynamoDB . Postgresql . MongoDB . Redis . Prometheus
+Cloud: AWS (the parts that actually work)
+       Kubernetes (love-hate relationship)
+       
+Databases: PostgreSQL (reliable friend)
+           Redis (fast friend) 
+           DynamoDB (expensive friend)
 
-Java . Python . GoLang . JavaScript . C++
+Daily Drivers: Spring Boot, FastAPI, Kafka
+               Docker, Terraform, way too much YAML
+```
 
-<!-- section - skills -->
+## 🎯 Recent Wins
 
-<!-- section - job details -->
+🚀 **Built a document processing pipeline** that actually understands invoices (99.5% accuracy, take that OCR!)
 
-## On the job .. 💯
+⚡ **Optimized some database queries** from "grab coffee while it loads" to "blink and you'll miss it"
 
-> Software Engineering - [**Mensa Brands**](https://mensabrands.com)  ⭐
+🤖 **Created a GenAI assistant** that writes better tickets than most humans (sorry, humans)
 
-#### Previously .. 💯
+🔧 **Open sourced some pipeline tools** that 150+ teams now use (and hopefully don't curse at)
 
-> Software Development Engineer - [**Swiggy**](https://bytes.swiggy.com/)  ⭐
+## 📚 Learning Corner
 
-> Software Engineer - [**HashedIn**](https://hashedin.com)  ⭐
+Currently reading: System design papers (yes, for fun)
+Recently tried: Rust (still fighting the borrow checker)
+Next up: WebAssembly (because why not?)
 
-> Microsoft Student Partner & AI Rockstar - [**Microsoft**](https://studentambassadors.microsoft.com/en-us)
+Fun fact: I once reduced AWS costs by 45% and felt like a financial wizard for a week.
 
-> Software Development & Research Engineer Intern - [**ISRO**](https://www.isro.gov.in)
+## 🎮 When not coding
 
+- Mentoring engineers who are way smarter than me
+- Writing posts that somehow reached 80k+ people (still not sure how)
+- Explaining why "it works on my machine" isn't a deployment strategy
+- Collecting passport stamps (14 countries and counting, mostly for the WiFi speed comparisons)
 
-<!-- section - job details -->
+---
 
+<div align="center">
 
-<!-- section - interests -->
+### 💬 Let's chat!
 
-## My Absolute Favorites .. 💖
+*Love talking about system design, performance optimization, or why your distributed system is probably more distributed than it needs to be*
 
-🦄 I love _CODING_
+**Always up for:** Technical discussions, code reviews, or helping debug that thing that works everywhere except production
 
-👨‍💻 I _BUILD_ resilient apps & services
+[![LinkedIn][1.1]][1] [![GitHub][2.1]][2] [![Twitter][3.1]][3]
 
-📰 Reading & writing _TECH BLOGS_
-
-🍕 _HACKATHONS_ & problem solving
-
-<!-- section - interests -->
-
-<!-- section - blogs -->
-
-## Check my blogs & posts .. ✨
-
-- [Building GitHub Profile using README.md](https://medium.com/@ombharatiya/building-github-profile-using-readme-md-ombharatiya-8d7663e8456b)
-
-- [When to choose NoSQL over SQL?](https://dev.to/ombharatiya/when-to-choose-nosql-over-sql-536p)
-
-- [Dockerize Django PostgreSQL — Simple Set-Up using Docker Compose](https://medium.com/@ombharatiya/dockerize-django-postgresql-simple-docker-compose-set-up-ombharatiya-13026aa142c3)
-
-- [Failure Story behind the Demo-2 launch mission of SpaceX cc Elon Musk](https://www.linkedin.com/posts/activity-6672761818504679424-y1Cf)
-
-- [Lightsabers Problem - Hashing](https://medium.com/@ombharatiya/lightsabers-problem-hashing-programming-in-c-b546c6f5331a)
-
-- [Why Java in the name of JavaScript](https://www.linkedin.com/posts/activity-6674171656325468160-u48L)
-
-- [₹ 1.5 Crore worth resources to students by GitHub](https://www.linkedin.com/posts/activity-6669904120138350592-U1wQ)
-
-- [Heros of Chandrayaan-2 Launch Mission ISRO](https://www.linkedin.com/posts/activity-6559739007759151104-jbOu)
-
-- [A blog on Microsoft AI bot Ruuh](https://medium.com/datadriveninvestor/can-an-ai-bot-be-my-girlfriend-a-blog-on-our-desi-ai-chatbot-ruuh-39b9c98c93a1)
-
-<!-- section - blogs -->
-
-## How To Make a Similar Home Page for your GitHub ? 😎
-
-1. Fork this repo.
-
-2. Edit the README.md file with your info.
-
-3. Rename your repo to your github username in settings tab.(for example my username is ombharatiya)
-
-4. You made it!
-
-Don't forget to add a Star ⭐ on this repo if you liked it & follow me for interesting stuff. 
-
-More details are on this blog link: [Building GitHub Profile using README.md](https://medium.com/@ombharatiya/building-github-profile-using-readme-md-ombharatiya-8d7663e8456b)
-
-
-
-
-## Thank you and Namaste! 🙏
-
-Thanks for reading about me. You can connect with me on ..
-
-<!-- section - social media icons -->
-
-[![linkedin ombharatiya][1.1]][1]
-[![github ombharatiya][2.1]][2]
-[![twitter ombharatiya][3.1]][3]
-[![medium ombharatiya][4.1]][4]
-[![stackoverflow om-bharatiya][5.1]][5]
-[![dev to ombharatiya][6.1]][6]
-
-<!-- section - social media icons -->
+**PS:** If you're looking for my resume, it's probably on LinkedIn like everyone else's 😄
 
 <p align='center'>
 <img align='center' src="https://visitor-badge.glitch.me/badge?page_id=ombharatiya.visitor-badge">
- <p/>
+</p>
+
+</div>
