@@ -71,9 +71,9 @@ Daily Drivers: Spring Boot, FastAPI, Kafka
 
 ## 📚 Learning Corner
 
-Currently reading: System design papers (yes, for fun)
-Recently tried: Rust (still fighting the borrow checker)
-Next up: WebAssembly (because why not?)
+**Currently reading:** System design papers (yes, for fun)  
+**Recently tried:** Rust (still fighting the borrow checker)  
+**Next up:** WebAssembly (because why not?)
 
 Fun fact: I once reduced AWS costs by 45% and felt like a financial wizard for a week.
 
