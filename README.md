@@ -76,13 +76,82 @@ Frontend (when the backend engineers need UIs):
   # Because someone has to make it look pretty
 ```
 
+### 🧰 My Toolbox
+
+**Languages & Frameworks**
+<p>
+  <img alt="Java" src="https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+  <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img alt="Go" src="https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white" />
+  <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
+  <img alt="C++" src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white" />
+  <img alt="Spring Boot" src="https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat-square&logo=spring&logoColor=white" />
+  <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
+  <img alt="FastAPI" src="https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+</p>
+
+**AI/ML & Data**
+<p>
+  <img alt="OpenAI" src="https://img.shields.io/badge/-OpenAI-412991?style=flat-square&logo=openai&logoColor=white" />
+  <img alt="PyTorch" src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
+  <img alt="Hugging Face" src="https://img.shields.io/badge/-🤗%20Hugging%20Face-FFD21E?style=flat-square&logoColor=black" />
+  <img alt="LangChain" src="https://img.shields.io/badge/-🦜%20LangChain-1C3C3C?style=flat-square&logoColor=white" />
+  <img alt="Anthropic" src="https://img.shields.io/badge/-Anthropic-191919?style=flat-square&logoColor=white" />
+  <img alt="Stable Diffusion" src="https://img.shields.io/badge/-Stable%20Diffusion-FF6B35?style=flat-square&logoColor=white" />
+  <img alt="Qdrant" src="https://img.shields.io/badge/-Qdrant-DC244C?style=flat-square&logoColor=white" />
+  <img alt="Elasticsearch" src="https://img.shields.io/badge/-Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white" />
+</p>
+
+**Cloud Platforms**
+<p>
+  <img alt="AWS" src="https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" />
+  <img alt="Google Cloud" src="https://img.shields.io/badge/-Google%20Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white" />
+  <img alt="Azure" src="https://img.shields.io/badge/-Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white" />
+  <img alt="AWS SageMaker" src="https://img.shields.io/badge/-SageMaker-FF9900?style=flat-square&logo=amazon-aws&logoColor=white" />
+  <img alt="Vertex AI" src="https://img.shields.io/badge/-Vertex%20AI-4285F4?style=flat-square&logo=google-cloud&logoColor=white" />
+  <img alt="AWS Bedrock" src="https://img.shields.io/badge/-Bedrock-FF9900?style=flat-square&logo=amazon-aws&logoColor=white" />
+  <img alt="RunPod" src="https://img.shields.io/badge/-RunPod-6366F1?style=flat-square&logoColor=white" />
+</p>
+
+**Infrastructure & DevOps**
+<p>
+  <img alt="Kubernetes" src="https://img.shields.io/badge/-K8S-326ce5?style=flat-square&logo=kubernetes&logoColor=white" />
+  <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
+  <img alt="Terraform" src="https://img.shields.io/badge/-Terraform-623CE4?style=flat-square&logo=terraform&logoColor=white" />
+  <img alt="GitHub Actions" src="https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
+  <img alt="ArgoCD" src="https://img.shields.io/badge/-ArgoCD-EF7B4D?style=flat-square&logo=argo&logoColor=white" />
+  <img alt="CloudFormation" src="https://img.shields.io/badge/-CloudFormation-FF9900?style=flat-square&logo=amazon-aws&logoColor=white" />
+</p>
+
+**Databases & Messaging**
+<p>
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-0064a5?style=flat-square&logo=postgresql&logoColor=white" />
+  <img alt="Redis" src="https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
+  <img alt="DynamoDB" src="https://img.shields.io/badge/-DynamoDB-4053D6?style=flat-square&logo=amazon-dynamodb&logoColor=white" />
+  <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+  <img alt="Kafka" src="https://img.shields.io/badge/-Kafka-231F20?style=flat-square&logo=apache-kafka&logoColor=white" />
+  <img alt="BigQuery" src="https://img.shields.io/badge/-BigQuery-669DF6?style=flat-square&logo=google-cloud&logoColor=white" />
+  <img alt="Redshift" src="https://img.shields.io/badge/-Redshift-8C4FFF?style=flat-square&logo=amazon-aws&logoColor=white" />
+</p>
+
+**Observability & Tools**
+<p>
+  <img alt="New Relic" src="https://img.shields.io/badge/-New%20Relic-008C99?style=flat-square&logo=new-relic&logoColor=white" />
+  <img alt="Datadog" src="https://img.shields.io/badge/-Datadog-632CA6?style=flat-square&logo=datadog&logoColor=white" />
+  <img alt="Prometheus" src="https://img.shields.io/badge/-Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white" />
+  <img alt="Grafana" src="https://img.shields.io/badge/-Grafana-F46800?style=flat-square&logo=grafana&logoColor=white" />
+  <img alt="OpenTelemetry" src="https://img.shields.io/badge/-OpenTelemetry-000000?style=flat-square&logo=opentelemetry&logoColor=white" />
+  <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+</p>
+
 ## 🎯 Quantified Impact
 
 | **AI Systems** | **Scale/Metric** | **Technical Achievement** |
 |----------------|-----------------|-------------------------|
 | Document Intelligence | 200k requests/min | 99.5% accuracy, $0.01/doc cost |
 | Portrait Generation | 10k+ cards/batch | 95% cost reduction vs APIs |
-| Financial Processes Automation | $10M+ processed | 90% automation rate achieved |
+| MCP Server Platform | O(log n) complexity | 33% infrastructure savings, 57% compute optimization |
 
 | **Infrastructure** | **Before → After** | **Business Impact** |
 |-------------------|-------------------|-------------------|
@@ -92,17 +161,17 @@ Frontend (when the backend engineers need UIs):
 
 ## 🏗 Notable Technical Achievements
 
-**🤖 Agentic Engineering Platform (2024)**
+**🤖 Agentic Engineering Platform**
 - Designed MCP-based tool orchestration reducing complexity from O(n³) to O(log n)
 - Achieved 33% infrastructure savings and 57% compute optimization
 - Built hierarchical agent taxonomy with policy-driven execution frameworks
 
-**⚡ Fintech Document AI (2024)**  
+**⚡ Fintech Document AI**  
 - Architected multi-modal validation pipeline with Azure Document Intelligence + Qdrant
 - Cost engineering: $0.01/document vs $0.10+ industry standard
 - Compliance: 98% audit trail completeness, 2-4 hour reviews vs 1-3 weeks manual
 
-**🎨 DiffusionID Production Pipeline (2024)**
+**🎨 DiffusionID Production Pipeline**
 - Built identity-preserving portrait generation using InstantID + Stable Diffusion XL
 - Performance: 8 seconds/image on RTX 4090, 450 images/hour throughput
 - Innovation: Two-stage pipeline with automated PDF card generation
