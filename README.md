@@ -64,7 +64,7 @@ AI/ML Stack:
   Frameworks: LangChain, Hugging Face, PyTorch
   Specialties: RAG systems, agentic workflows, vector search
 
-Backend Mastery (10+ years):
+Backend Mastery:
   Languages: Python, Java, Go, JavaScript/TypeScript  
   Databases: PostgreSQL, Redis, DynamoDB, Elasticsearch
   Cloud: AWS (Certified), Kubernetes, Terraform
