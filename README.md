@@ -65,11 +65,11 @@ AI/ML Stack:
   Specialties: RAG systems, agentic workflows, vector search
 
 Backend Mastery:
-  Languages: Python, Java, Go, JavaScript/TypeScript  
+  Languages: Java, Python, C++, Go, JavaScript/TypeScript  
   Databases: PostgreSQL, Redis, DynamoDB, Elasticsearch
-  Cloud: AWS (Certified), Kubernetes, Terraform
-  Messaging: Kafka, RabbitMQ, EventBridge
-  Monitoring: DataDog, Prometheus, OpenTelemetry
+  Cloud: AWS, Kubernetes, ECS,  EKS, AWS State Machines, CDK, Terraform
+  Messaging: Kafka, AWS SQS, RabbitMQ, EventBridge
+  Monitoring: NewRelic, CloudWatch, DataDog, Prometheus, OpenTelemetry, Grafana
 
 Frontend (when the backend engineers need UIs):
   Modern: React, Next.js, TypeScript
