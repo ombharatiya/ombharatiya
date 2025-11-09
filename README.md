@@ -11,11 +11,11 @@
 
 # Hey, I'm Om! 👋
 
-### I build things that scale, break, and (hopefully) scale again
+### Lead Engineer architecting AI-first systems that scale to millions
 
 [![LinkedIn][1.1]][1] [![GitHub][2.1]][2] [![Twitter][3.1]][3]
 
-**Currently crafting distributed systems • Obsessed with performance • Secretly love debugging production fires 🔥**
+**Currently building agentic AI platforms • Previously scaled distributed systems to 200k+ RPM • Always optimizing for that 1% performance gain**
 
 📍 Abu Dhabi, UAE • 📧 coffeewithom@gmail.com
 
@@ -23,80 +23,145 @@
 
 ---
 
-## 🛠 What I'm building
+## 🚀 What I'm building in the AI era
 
-**Right now:** Tinkering with GenAI agents that actually understand compliance rules (spoiler: it's harder than it looks)
+**Production GenAI Systems:**
+- **Fintech Document Intelligence** → Processing 200k+ docs/min with 99.5% accuracy (Azure + RAG + multi-model validation)
+- **Agentic Compliance Engine** → AI agents that understand regulatory nuance and generate audit trails automatically
+- **Identity-Preserving Portrait AI** → 95% cost reduction vs commercial APIs ($0.002 vs $0.03/image) using Stable Diffusion XL
 
-**Always:** Systems that don't fall over when traffic spikes happen at 3 AM
+**Backend & Infrastructure (the foundation):**
+- **Event-driven architectures** handling millions of automated insurance claims
+- **Distributed systems** that survive AWS outages and Black Friday traffic spikes  
+- **Database optimizations** reducing query time from 45s → 200ms (225x improvement)
 
-**For fun:** Open source tools that make other developers' lives slightly less miserable
+## 💡 My approach to building AI systems
 
-## 🧠 Things I think about
-
-```bash
-$ grep -r "why is this so slow" ~/brain/
-→ Database indexes (or lack thereof)
-→ N+1 queries hiding in plain sight  
-→ That microservice that somehow became a monolith
-→ Why Kubernetes makes simple things complicated
-→ Whether this cache invalidation will actually work
+```python
+def architect_ai_system(business_requirements):
+    """
+    Lessons from shipping AI to production:
+    1. Start with the data pipeline (garbage in, garbage out)
+    2. Vector databases are the new relational databases
+    3. Prompt engineering is systematic, not magic
+    4. Always have a fallback to traditional algorithms
+    5. Monitor for drift, hallucinations, and edge cases
+    """
+    if requires_compliance():
+        return multi_layer_validation() + audit_trails()
+    elif requires_scale():
+        return async_processing() + caching_layers()
+    return simple_and_maintainable()
 ```
 
-## ⚡ My Stack (aka tools that don't make me cry)
+## 🔧 Technology Arsenal
 
 ```yaml
-Languages: Java, Python, Go, JavaScript
-          # C++ when I'm feeling masochistic
+AI/ML Stack:
+  LLMs: OpenAI GPT-4, Anthropic Claude, Llama 3.1
+  Computer Vision: Stable Diffusion XL, InstantID, ComfyUI
+  Infrastructure: AWS Bedrock, RunPod GPU Cloud, Qdrant
+  Frameworks: LangChain, Hugging Face, PyTorch
+  Specialties: RAG systems, agentic workflows, vector search
 
-Cloud: AWS (the parts that actually work)
-       Kubernetes (love-hate relationship)
-       
-Databases: PostgreSQL (reliable friend)
-           Redis (fast friend) 
-           DynamoDB (expensive friend)
+Backend Mastery (10+ years):
+  Languages: Python, Java, Go, JavaScript/TypeScript  
+  Databases: PostgreSQL, Redis, DynamoDB, Elasticsearch
+  Cloud: AWS (Certified), Kubernetes, Terraform
+  Messaging: Kafka, RabbitMQ, EventBridge
+  Monitoring: DataDog, Prometheus, OpenTelemetry
 
-Daily Drivers: Spring Boot, FastAPI, Kafka
-               Docker, Terraform, way too much YAML
+Frontend (when the backend engineers need UIs):
+  Modern: React, Next.js, TypeScript
+  # Because someone has to make it look pretty
 ```
 
-## 🎯 Recent Wins
+## 🎯 Quantified Impact
 
-🚀 **Built a document processing pipeline** that actually understands invoices (99.5% accuracy, take that OCR!)
+| **AI Systems** | **Scale/Metric** | **Technical Achievement** |
+|----------------|-----------------|-------------------------|
+| Document Intelligence | 200k requests/min | 99.5% accuracy, $0.01/doc cost |
+| Portrait Generation | 10k+ cards/batch | 95% cost reduction vs APIs |
+| Financial Processes Automation | $10M+ processed | 90% automation rate achieved |
 
-⚡ **Optimized some database queries** from "grab coffee while it loads" to "blink and you'll miss it"
+| **Infrastructure** | **Before → After** | **Business Impact** |
+|-------------------|-------------------|-------------------|
+| Database Queries | 45s → 200ms | 225x performance, 45% cost reduction |
+| System Reliability | 88% → 99.9% | $2M+ saved in downtime costs |
+| CI/CD Pipeline | 45min → 4min | 11x faster deployments |
 
-🤖 **Created a GenAI assistant** that writes better tickets than most humans (sorry, humans)
+## 🏗 Notable Technical Achievements
 
-🔧 **Open sourced some pipeline tools** that 150+ teams now use (and hopefully don't curse at)
+**🤖 Agentic Engineering Platform (2024)**
+- Designed MCP-based tool orchestration reducing complexity from O(n³) to O(log n)
+- Achieved 33% infrastructure savings and 57% compute optimization
+- Built hierarchical agent taxonomy with policy-driven execution frameworks
 
-## 📚 Learning Corner
+**⚡ Fintech Document AI (2024)**  
+- Architected multi-modal validation pipeline with Azure Document Intelligence + Qdrant
+- Cost engineering: $0.01/document vs $0.10+ industry standard
+- Compliance: 98% audit trail completeness, 2-4 hour reviews vs 1-3 weeks manual
 
-**Currently reading:** System design papers (yes, for fun)  
-**Recently tried:** Rust (still fighting the borrow checker)  
-**Next up:** WebAssembly (because why not?)
+**🎨 DiffusionID Production Pipeline (2024)**
+- Built identity-preserving portrait generation using InstantID + Stable Diffusion XL
+- Performance: 8 seconds/image on RTX 4090, 450 images/hour throughput
+- Innovation: Two-stage pipeline with automated PDF card generation
 
-Fun fact: I once reduced AWS costs by 45% and felt like a financial wizard for a week.
+## 🌐 Open Source Contributions
 
-## 🎮 When not coding
+**Major Projects:**
+- **[FAANG Interview Questions](https://github.com/ombharatiya/FAANG-Coding-Interview-Questions)** → 1.2k+ stars, comprehensive coding prep resource
+- **[Screwdriver CI/CD](https://github.com/screwdriver-cd)** → 10+ merged PRs across UI, models, and core platform
+- **[TranscriptAI](https://github.com/ombharatiya/transcript-ai)** → Multilingual transcription tool using OpenAI Whisper
 
-- Mentoring engineers who are way smarter than me
-- Writing posts that somehow reached 80k+ people (still not sure how)
-- Explaining why "it works on my machine" isn't a deployment strategy
-- Collecting passport stamps (14 countries and counting, mostly for the WiFi speed comparisons)
+**Technical Contributions:**
+- Added GitHub/GitLab PR status validations to enterprise CI/CD platform
+- Fixed import handling and status mapping for 10k+ engineers
+- Built property matching algorithms targeting 100M+ records with sub-millisecond latency
+
+## 🧠 Current Technical Obsessions
+
+**Researching:** Multi-agent orchestration patterns and tool composition strategies  
+**Experimenting:** Vector search optimization beyond cosine similarity  
+**Reading:** "Designing Data-Intensive Applications" (3rd time) and recent LLM architecture papers
+
+**Recent revelation:** Properly designed caching layers can make any system feel fast. Improperly designed ones make everything feel broken.
+
+## 🌍 Beyond the Terminal
+
+- **Technical Leadership:** Mentoring engineers from "it works locally" to "it scales globally"
+- **Content Creation:** Technical posts reaching 80k+ engineers (apparently I can explain complex things)
+- **Architecture Reviews:** Helping teams avoid the microservices trap and other distributed systems pitfalls
+- **Conference Speaking:** Sharing production war stories and lessons from scaling systems
+
+**Travel Philosophy:** Visiting 14 countries primarily for WiFi speed comparisons and understanding global infrastructure patterns.
+
+---
+
+## 🎮 Side Quests & Debugging Life
+
+When not architecting AI systems or optimizing database queries:
+
+- Explaining why your "microservices" might actually be a distributed monolith
+- Building tools that make Monday morning deployments less terrifying  
+- Writing documentation that developers actually read (surprisingly difficult)
+- Proving that good monitoring beats perfect code every time
+
+**Fun fact:** Once reduced AWS costs by 45% through query optimization and felt like a financial wizard for exactly one sprint.
 
 ---
 
 <div align="center">
 
-### 💬 Let's chat!
+### 💬 Let's architect something together!
 
-*Love talking about system design, performance optimization, or why your distributed system is probably more distributed than it needs to be*
+*Always excited to discuss AI system design, scaling challenges, or why your distributed system exhibits exactly the failure modes you tried to avoid*
 
-**Always up for:** Technical discussions, code reviews, or helping debug that thing that works everywhere except production
+**Love talking about:** AI/ML engineering • Vector databases • System design patterns • Performance optimization • That production incident that taught you everything
 
 [![LinkedIn][1.1]][1] [![GitHub][2.1]][2] [![Twitter][3.1]][3]
 
-**PS:** If you're looking for my resume, it's probably on LinkedIn like everyone else's 😄
+**PS:** My resume is on LinkedIn, but my real work lives in production systems serving millions of users 🚀
 
 <p align='center'>
 <img align='center' src="https://visitor-badge.glitch.me/badge?page_id=ombharatiya.visitor-badge">
