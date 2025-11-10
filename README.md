@@ -50,7 +50,7 @@ AI agents that understand regulatory nuance and auto-generate audit trails. Mult
 Identity-preserving portrait generation at scale. 8 seconds/image on RTX 4090, 450 images/hour throughput. Two-stage pipeline with automated PDF card generation.
 
 **[FAANG Interview Questions](https://github.com/ombharatiya/FAANG-Coding-Interview-Questions)**  
-1.2k+ stars. Comprehensive coding interview prep resource.
+3.7k+ stars. Comprehensive coding interview prep resource.
 
 **[Screwdriver CI/CD](https://github.com/screwdriver-cd/ui/pulls?q=is%3Apr+is%3Amerged+author%3Aombharatiya)**  
 10+ merged PRs across UI, models, and core platform. Added GitHub/GitLab PR validations for 10k+ engineers.
@@ -80,7 +80,7 @@ def architect_ai_system(business_requirements):
 
 ## Currently
 
-Researching multi-agent orchestration and vector search optimization. Mentoring engineers on distributed systems and AI system design. Writing technical content reaching 80k+ engineers and founders. Consulting AI teams for building better solutions.
+Researching multi-agent orchestration and vector search optimization. Mentoring engineers on distributed systems and AI system design. Writing technical content reaching 80k+ engineers and founders. Giving consultations to AI teams for building better solutions.
 
 ---
 
