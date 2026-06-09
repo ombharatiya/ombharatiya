@@ -1,86 +1,87 @@
-<!-- Social Media Icons -->
-[1.1]: https://github.com/ombharatiya/ombharatiya/blob/master/assets/icons/icons8-linkedin-48.png
-[2.1]: https://github.com/ombharatiya/ombharatiya/blob/master/assets/icons/icons8-github-48.png
-[3.1]: https://github.com/ombharatiya/ombharatiya/blob/master/assets/icons/icons8-twitter-48.png
-
-[1]: https://www.linkedin.com/in/ombharatiya
-[2]: https://www.github.com/ombharatiya
-[3]: https://www.twitter.com/ombharatiya
-
 <div align="center">
 
 # Om Bharatiya
 
-### Lead Engineer | AI Systems & Distributed Infrastructure
+### Principal AI Engineer · Agentic Platforms, MCP & Eval Infrastructure
 
-[![LinkedIn][1.1]][1] [![GitHub][2.1]][2] [![Twitter][3.1]][3]
+[![Website](https://img.shields.io/badge/ombharatiya.com-0A1226?style=flat-square&logo=googlechrome&logoColor=white)](https://www.ombharatiya.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ombharatiya)
+[![X](https://img.shields.io/badge/@ombharatiya-000000?style=flat-square&logo=x&logoColor=white)](https://twitter.com/ombharatiya)
+[![Email](https://img.shields.io/badge/coffeewithom@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:coffeewithom@gmail.com)
 
-📍 Abu Dhabi, UAE • 📧 coffeewithom@gmail.com
+📍 Dubai, UAE
 
-Building production AI systems that process 200k+ requests/min. Previously scaled distributed systems serving millions. Open source contributor with 4k+ GitHub stars.
+**I build AI systems for places where a wrong answer costs money.**
+
+Agentic platforms, MCP servers, and eval infrastructure for enterprise banking.
+7+ years shipping production AI: ISRO → Swiggy → Mensa Brands → banking-scale platforms.
+~7k stars on open source. Writing read by 80k+ engineers.
 
 </div>
 
 ---
 
-## What I'm building in the AI era
+## Open source
 
-| System | Scale | Achievement |
-|--------|-------|-------------|
-| Fintech Document AI | 200k docs/min | 99.5% accuracy, $0.01/doc (90% cost reduction) |
-| Portrait Generation Pipeline | 10k+ cards/batch | 95% cost reduction vs commercial APIs |
-| MCP Server Platform | O(log n) complexity | 33% infrastructure savings, 57% compute optimization |
-| Database Optimization | 45s → 200ms queries | 225x performance improvement |
-| System Reliability | 88% → 99.9% uptime | $2M+ saved in downtime costs |
+**[AI System Design Guide](https://github.com/ombharatiya/ai-system-design-guide)** · ★ 1.7k
+How to design production AI systems and evals. Actively maintained. This is where my current thinking lives.
 
-## Core Stack
+**[FAANG Coding Interview Questions](https://github.com/ombharatiya/FAANG-Coding-Interview-Questions)** · ★ 5.1k
+The curated interview prep list, forked 1.2k+ times.
 
-**AI/ML:** OpenAI GPT-4, Anthropic Claude, Llama 3.1 • Stable Diffusion XL, InstantID • LangChain, PyTorch, Hugging Face • RAG systems, agentic workflows, vector search
+**[TranscriptAI](https://github.com/ombharatiya/transcript-ai)**
+Multilingual speech-to-text CLI on OpenAI Whisper. Batch processing, 8+ formats.
 
-**Backend:** Java, Python, Go, TypeScript • PostgreSQL, Redis, DynamoDB, Elasticsearch • Kafka, AWS SQS, EventBridge
+**[Screwdriver CI/CD](https://github.com/screwdriver-cd/ui/pulls?q=is%3Apr+is%3Amerged+author%3Aombharatiya)**
+10+ merged PRs across UI, models, and core. Shipped GitHub/GitLab PR validations used by 10k+ engineers.
 
-**Cloud:** AWS (Bedrock, SageMaker, ECS/EKS, CDK) • Kubernetes, Terraform • NewRelic, DataDog, Prometheus
+## Shipped to production
 
-## My work
+| System | The number | Context |
+|--------|------------|---------|
+| [Fintech Document AI](https://gist.github.com/ombharatiya/de4fe4c953859eb442499c6b143e02dd) | **$0.01 per doc** | 200k requests/min at 99.5% accuracy, 90% cost reduction |
+| [Trade-docs compliance agents](https://www.ombharatiya.com/projects/compliance-ai) | **weeks → hours** | review time down from 1-3 weeks to 2-4 hours, 98% audit completeness |
+| [Agentic Engineering Platform](https://www.ombharatiya.com/projects/agentic-engineering-platform) | **33% infra saved** | MCP orchestration with hierarchical tool taxonomy, 57% compute optimization |
+| [DiffusionID portrait pipeline](https://www.ombharatiya.com/projects/diffusionid) | **95% cheaper** | than commercial APIs, at 450 images/hour and 10k+ cards per batch |
+| Core platform reliability | **99.9% uptime** | up from 88%, queries cut from 45s to 200ms, $2M+ downtime saved |
 
-**[Agentic Compliance Engine](https://gist.github.com/ombharatiya/de4fe4c953859eb442499c6b143e02dd)**  
-AI agents that understand regulatory nuance and auto-generate audit trails. Multi-modal validation pipeline with 98% audit completeness, reducing review time from 1-3 weeks to 2-4 hours.
+## Writing: [The Real Signal](https://www.ombharatiya.com/blog)
 
-**[DiffusionID Production Pipeline](https://github.com/ombharatiya/diffusion-id)**  
-Identity-preserving portrait generation at scale. 8 seconds/image on RTX 4090, 450 images/hour throughput. Two-stage pipeline with automated PDF card generation.
+No-hype takes on AI, written from inside production systems:
 
-**[FAANG Interview Questions](https://github.com/ombharatiya/FAANG-Coding-Interview-Questions)**  
-3.7k+ stars. Comprehensive coding interview prep resource.
+- [Uber Blew Its AI Budget in One Quarter. So Will You.](https://www.ombharatiya.com/blog/uber-ai-budget-blown)
+- [Nobody Goes to Parties and Talks About TCP/IP](https://www.ombharatiya.com/blog/mcp-protocol-won) (on MCP quietly winning)
+- [Karpathy Says He's Never Felt This Behind. That Should Scare You.](https://www.ombharatiya.com/blog/vibe-coding-trap)
+- [You Don't Pick the Best Model. You Pick the One That Gets You.](https://www.ombharatiya.com/blog/ai-model-personalities)
 
-**[Screwdriver CI/CD](https://github.com/screwdriver-cd/ui/pulls?q=is%3Apr+is%3Amerged+author%3Aombharatiya)**  
-10+ merged PRs across UI, models, and core platform. Added GitHub/GitLab PR validations for 10k+ engineers.
+## Stack
 
-**[TranscriptAI](https://github.com/ombharatiya/transcript-ai)**  
-Multilingual transcription using OpenAI Whisper.
+**AI/ML:** Claude, GPT-4, Llama 3.1 · SDXL, InstantID · LangChain, PyTorch, Hugging Face · RAG, agentic workflows, vector search
+**Backend:** Python, Java, Go, TypeScript · PostgreSQL, Redis, DynamoDB, Elasticsearch · Kafka, SQS, EventBridge
+**Infra:** AWS (Bedrock, SageMaker, EKS, CDK) · Kubernetes, Terraform · Datadog, Prometheus, NewRelic
 
-
-## My approach to building AI systems
+## How I build
 
 ```python
-def architect_ai_system(business_requirements):
+def ship_ai_system(requirements):
     """
-    Lessons from shipping AI to production:
-    1. Start with the data pipeline (garbage in, garbage out)
-    2. Vector databases are the new relational databases
-    3. Prompt engineering is systematic, not magic
-    4. Always have a fallback to traditional algorithms
-    5. Monitor for drift, hallucinations, and edge cases
+    Rules I learned in production, the expensive way:
+    1. Build the meter before you turn on the tap
+    2. No evals, no deploy
+    3. Treat LLMs as unreliable services; design for failure
+    4. The boring fallback saves you at 3 a.m.
+    5. Agents need governance more than they need autonomy
     """
-    if requires_compliance():
-        return multi_layer_validation() + audit_trails()
-    elif requires_scale():
-        return async_processing() + caching_layers()
-    return simple_and_maintainable()
+    if handles_money_or_compliance(requirements):
+        return validation_layers() + audit_trails() + human_in_the_loop()
+    if needs_scale(requirements):
+        return async_pipelines() + caching() + cost_meters()
+    return something_simple_that_works()
 ```
 
 ## Currently
 
-Researching multi-agent orchestration and vector search optimization. Mentoring engineers on distributed systems and AI system design. Writing technical content reaching 80k+ engineers and founders. Giving consultations to AI teams for building better solutions.
+Researching multi-agent orchestration and eval infrastructure. Mentoring engineers on distributed systems and AI system design. Consulting with teams taking agents from demo to production.
 
 ---
 
@@ -88,14 +89,12 @@ Researching multi-agent orchestration and vector search optimization. Mentoring 
 
 ### Let's build something together
 
-Always excited to discuss AI system design, scaling challenges, and distributed systems architecture.
+AI system design, agents in production, scaling war stories. Always up for that conversation.
 
-[![LinkedIn][1.1]][1] [![GitHub][2.1]][2] [![Twitter][3.1]][3]
+[![Website](https://img.shields.io/badge/ombharatiya.com-0A1226?style=flat-square&logo=googlechrome&logoColor=white)](https://www.ombharatiya.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ombharatiya)
+[![X](https://img.shields.io/badge/@ombharatiya-000000?style=flat-square&logo=x&logoColor=white)](https://twitter.com/ombharatiya)
 
-**PS:** My resume is on LinkedIn, but my real work lives in production systems serving millions of users 🚀
-
-<p align='center'>
-<img align='center' src="https://visitor-badge.glitch.me/badge?page_id=ombharatiya.visitor-badge">
-</p>
+*In order to understand recursion, one must first understand recursion.*
 
 </div>
